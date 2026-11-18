@@ -4,4 +4,4 @@ Senior Frontend Developer with 9+ years of experience building websites and web 
 
 I mainly work with React, Next.js, Svelte and TypeScript.
 
-[Portfolio & selected work](https://mahmoodbawazir.com)
+[Explore my portfolio](https://mahmoodbawazir.com)
